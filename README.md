@@ -9,24 +9,26 @@ Saya memiliki ketertarikan di bidang Web Development dan percaya bahwa teknologi
 - 📫 www.linkedin.com/in/valerianyamin25
 
 ## 💎 Personal Values
-Gunakan tabel seperti ini:
 | Nilai | Deskripsi |
 | --- | --- |
-| 🎯  |  |
-| 📚  |  |
+| 🎯 Target Oriented | Fokus pada target dan penyelesaian masalah |
+| 🤝 Teamwork | Bersama tim untuk mencapai hasil terbaik|
+| 📚 Continuous Learning | Selalu belajar dan menerima ilmu baru |
+| ⚡ Flexibility| Fleksibel dan mudah beradaptasi dengan situasi |
 
 ## 🛠️ Tech Stack & Tools
-Bisa tulis daftar bahasa pemrograman, framework, dan tools yang Anda kuasai.
 
-## 📂 Featured Repositories (Ini untuk 3 proyek terbaik Anda)
-Pilih 3 repository proyek Anda, lalu untuk masing-masing tulis:
-- **Nama Proyek** (dibuat bold)
-- Deskripsi singkat proyek tersebut.
-- Tech stack yang digunakan.
-- (Opsional) Struktur folder penting.
+
+## 📂 Featured Repositories
+
 
 ## 📜 Certifications / 🏆 Achievement
-Buat tabel berisi nama sertifikat, lembaga penerbit, dan tahun perolehannya.
+
 
 ## 📞 Kontak Profesional
-Buat tabel yang berisi platform (Email, LinkedIn, GitHub, dll) dan tautan/linknya.
+| Platform | Link |
+| -------- | ---- |
+| 📧 Email | valerian.yamin@gmail.com |
+| 💼 LinkedIn | www.linkedin.com/in/valerianyamin25 |
+| 💻 GitHub	|  |
+| 📍 Lokasi | Batam, Kepulauan Riau, Indonesia |
