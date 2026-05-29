@@ -37,12 +37,16 @@ Saya memiliki ketertarikan di bidang Web Development dan percaya bahwa teknologi
 
 
 ## 📜 Certifications / 🏆 Achievement
-
+| **🏅 Sertifikat**	| **🏢 Lembaga**	| **📅 Tahun** |
+| --- | --- | --- |
+| Oracle Course Completion | Oracle | 2023 |
+| Oracle Final Exam Completion | Oracle | 2023 |
+| Model AI di Microsoft Fabric | Dicoding | 2026 |
 
 ## 📞 Kontak Profesional
 | Platform | Link |
 | -------- | ---- |
 | 📧 Email | valerian.yamin@gmail.com |
 | 💼 LinkedIn | www.linkedin.com/in/valerianyamin25 |
-| 💻 GitHub	|  |
+| 💻 GitHub	| https://github.com/Valeyyy |
 | 📍 Lokasi | Batam, Kepulauan Riau, Indonesia |
